@@ -1,0 +1,135 @@
+{
+  "small": [
+    {
+      "uuid": "e80ea521-4d42-48fe-a7a6-ac8952bc0de4",
+      "brandname": "Opel Corsa",
+      "name": "John Travolta",
+      "description": "A very fast car and a new model release.",
+      "email": "opelcorsa@gmail.com",
+      "phone": "09586515487",
+      "images": {
+        "full": "/img/opel-corsa.jpg"
+      }
+    },
+    {
+      "uuid": "7f8e872d-47a5-44e6-b1ad-7b7cb94f1d30",
+      "brandname": "Toyota Yaris",
+      "name": "John Travolta",
+      "description": "A very fast car and a new model release.",
+      "email": "toyotayaris@gmail.com",
+      "phone": "09586515487",
+      "images": {
+        "full": "/img/toyota-yaris.jpg"
+      }
+    },
+    {
+      "uuid": "3555aec3-47e1-44d4-b8f2-607aad5cee67",
+      "brandname": "Smart for Two",
+      "name": "John Travolta",
+      "description": "A very fast car and a new model release.",
+      "email": "smartfortwo@gmail.com",
+      "phone": "09586515487",
+      "images": {
+        "full": "/img/smart-for-two.jpg"
+      }
+    },
+    {
+      "name": "qwerty",
+      "brandname": "Toyota Yaris",
+      "email": "qwert@gmail.com",
+      "phone": "2353235",
+      "uuid": "qQslrwj"
+    }
+  ],
+  "premium": [
+    {
+      "uuid": "233d8582-141a-460d-b7e1-d623afd69e7d",
+      "brandname": "Audi S8",
+      "name": "John Travolta",
+      "description": "A very fast car and a new model release.",
+      "email": "audis8@gmail.com",
+      "phone": "09586515487",
+      "images": {
+        "full": "/img/audi-s8.jpg"
+      }
+    },
+    {
+      "uuid": "3c1aa6a4-802f-4f34-a232-bfd4d975f7b1",
+      "brandname": "Jaguar XJR",
+      "name": "John Travolta",
+      "description": "A very fast car and a new model release.",
+      "email": "jaguar@gmail.com",
+      "phone": "09586515487",
+      "images": {
+        "full": "/img/Jaguar-XJR.jpg"
+      }
+    },
+    {
+      "uuid": "8f730f08-5ea5-48fb-bfd7-6a28337efc28",
+      "brandname": "BMW 750iL",
+      "name": "John Travolta",
+      "description": "A very fast car and a new model release.",
+      "email": "bmw@gmail.com",
+      "phone": "09586515487",
+      "images": {
+        "full": "/img/bmw.jpg"
+      }
+    },
+    {
+      "name": "First",
+      "brandname": "Jaguar XJR",
+      "email": "first@gmail.com",
+      "phone": "232421313",
+      "uuid": "NL8q73j"
+    },
+    {
+      "name": "qwertyu",
+      "brandname": "Audi S8",
+      "email": "qwerrty@gmail.com",
+      "phone": "4654651",
+      "uuid": "Fky1N8u"
+    }
+  ],
+  "van": [
+    {
+      "uuid": "234d8582-141a-460d-b7e1-d623afd69e7d",
+      "brandname": "Volkswagen Touran",
+      "name": "John Travolta",
+      "description": "A very fast car and a new model release.",
+      "email": "volkswagon8@gmail.com",
+      "phone": "09586515487",
+      "images": {
+        "full": "/img/volkswagon.jpg"
+      }
+    },
+    {
+      "uuid": "3c0aa6a4-802f-4f34-a232-bfd4d975f7b1",
+      "brandname": "Renault Espace",
+      "name": "John Travolta",
+      "description": "A very fast car and a new model release.",
+      "email": "renault@gmail.com",
+      "phone": "09586515487",
+      "images": {
+        "full": "/img/renault.jpg"
+      }
+    },
+    {
+      "uuid": "8f430f08-5ea5-48fb-bfd7-6a28337efc28",
+      "brandname": "Flat Talento",
+      "name": "John Travolta",
+      "description": "A very fast car and a new model release.",
+      "email": "flattalento@gmail.com",
+      "phone": "09586515487",
+      "images": {
+        "full": "/img/flat-talento.jpg"
+      }
+    },
+    {
+      "name": "Second",
+      "brandname": "Renault Espace",
+      "email": "Second@gmail.com",
+      "phone": "243251512",
+      "uuid": "LN1dB~e"
+    }
+  ]
+}
